@@ -1,0 +1,42 @@
+# 环境变量（含token，不要提交）
+.env
+
+# 数据文件（通常很大）
+data/
+*.parquet
+*.h5
+*.hdf5
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# 虚拟环境
+.venv/
+venv/
+env/
+.conda/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+logs/

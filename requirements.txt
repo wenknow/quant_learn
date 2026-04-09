@@ -1,0 +1,46 @@
+# 核心数据科学
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+mplfinance>=0.12.9
+
+# 金融数据
+tushare>=1.2.89
+akshare>=1.10.0
+
+# 统计与时序
+statsmodels>=0.14.0
+arch>=6.2.0
+
+# 机器学习
+scikit-learn>=1.3.0
+lightgbm>=4.0.0
+xgboost>=1.7.0
+shap>=0.42.0
+
+# 深度学习（可选）
+# torch>=2.0.0
+
+# 组合优化
+cvxpy>=1.3.0
+PyPortfolioOpt>=1.5.0
+
+# 因子分析
+alphalens-reloaded>=0.4.3
+
+# 量化框架
+# backtrader>=1.9.78
+# vnpy（见官网安装说明）
+
+# 数据存储
+sqlalchemy>=2.0.0
+h5py>=3.9.0
+
+# 工具
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+python-dotenv>=1.0.0
+loguru>=0.7.0
+tqdm>=4.65.0
